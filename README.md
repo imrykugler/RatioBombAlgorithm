@@ -1,7 +1,7 @@
 # Ratio Bomb Algorithm
 This repository contains the specification of the potential most distractive zero-day attack,
 Made for the ethical purpose, of proving atomic weaponery is not the weapon of doom, but an algorithm is.
-For if this attack will be executed against most of the area of planet earth, there will be a large scale apocaliptic event.
+For if this attack will be executed against most of the area of planet earth, there will be a large scale apocalyptic event.
 
 This repository is strictly for ethical reasons, and not for use, for there will be no winners in this battle.
 
