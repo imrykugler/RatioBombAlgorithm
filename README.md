@@ -1,5 +1,5 @@
 # Ratio Bomb Algorithm
-This repository contains the specification of the potential most distractive zero-day attack,
+This repository contains the specification of potentialy the most destractive zero-day attack,
 Made for the ethical purpose, of proving atomic weaponery is not the weapon of doom, but an algorithm is.
 For if this attack will be executed against most of the area of planet earth, there will be a large scale apocalyptic event.
 
@@ -11,7 +11,7 @@ Specification of the Ratio Bomb Algoritm -
 This zero-day attack, will take down most of the machines and phones in a preditermined ratio.
 
 AI which is a machine learning algorithm which studies algorithms, will scan a list of possible attacks,
-using resources such as the Exploit-DB. Use machine learning, will identify which attack can be executed by a machine,
+using resources such as the Exploit-DB. Using machine learning, will identify which attack can be executed by a machine,
 and which not.
 
 Will create two stacks.
@@ -20,8 +20,8 @@ Stack A will contain a list of attacks which can be executed, and stack B of att
 Stack A will be sorted by qualified programmers, samilliarly to the Airgeddon attacking tool logic, from more probable to succeed to less.
 
 On the first stage of using this tool, there will be an execution of Stack A, a DoS attack of most of the machines in a predetermined radius.
-The attack will exploit Wifi and GSM for the initial stages. Using deisgnated antennas. Will take down at least 50 percent of the machines in a radius.
-Some of the devices will be completly distroyed, some partially distroyed, and some will not be distroyed at all.
+The attack will exploit Wifi and GSM for the initial stages, Using deisgnated antennas. Will take down at least 50 percent of the machines in a radius.
+Some of the devices will be completly destroyed, some partially destroyed, and some will not be destroyed at all.
 
 On the second stage of the attack, qualified penetration testers will execute the Stack B attacks which are possible to be executed manually,
 and not by a machine.
