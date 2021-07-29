@@ -8,7 +8,7 @@ This repository is strictly for ethical reasons, and not for use, for there will
 
 Specification of the Ratio Bomb Algoritm -
 
-This zero-day attack, will take down most of the machines and phones in a preditermined ratio.
+This zero-day attack, will take down most of the machines and phones in a preditermined radius.
 
 AI which is a machine learning algorithm which studies algorithms, will scan a list of possible attacks,
 using resources such as the Exploit-DB. Using machine learning, will identify which attack can be executed by a machine,
