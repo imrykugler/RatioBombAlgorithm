@@ -1,4 +1,4 @@
-# RatioBombAlgorithm
+# Ratio Bomb Algorithm
 This repository contains the specification of the potential most distractive zero-day attack,
 Made for the ethical purpose, of proving atomic weaponery is not the weapon of doom, but an algorithm is.
 
@@ -13,7 +13,7 @@ AI which is a machine learning algorithm which studies algorithms, will scan a l
 using resources such as the Exploit-DB. Use machine learning, will identify which attack can be executed by a machine,
 and which not.
 
-Will create to stacks.
+Will create two stacks.
 
 Stack A will contain a list of attacks which can be executed, and stack B of attacks which cannot be executed.
 Stack A will be sorted by qualified programmers, samilliarly to the Airgeddon attacking tool logic, from more probable to succeed to less.
