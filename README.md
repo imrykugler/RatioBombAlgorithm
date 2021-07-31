@@ -1,7 +1,7 @@
 # Ratio Bomb Algorithm
-This repository contains the specification of potentialy the most destractive zero-day attack,
+This repository contains the specification of potentialy the most destractive zero-day attack ever,
 Made for the ethical purpose, of proving atomic weaponery is not the weapon of doom, but an algorithm is.
-For if this attack will be executed against most of the area of planet earth, there will be a large scale apocalyptic event.
+For if this attack be executed against most of the area of planet earth, there will be a large scale apocalyptic event.
 
 This repository is strictly for ethical reasons, and not for use, for there will be no winners in this battle.
 
