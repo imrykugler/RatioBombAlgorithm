@@ -3,7 +3,10 @@ This repository contains the specification of potentialy the most destractive ze
 Made for the ethical purpose, of proving atomic weaponery is not the weapon of doom, but an algorithm is.
 For if this attack be executed against most of the area of planet earth, there will be a large scale apocalyptic event.
 
+![tumblr_o2z2b8aV1i1qmob6ro1_500](https://user-images.githubusercontent.com/88146003/128008308-237395f6-dce3-4f34-bc2a-e289e203d21d.gif)
+
 This repository is strictly for ethical reasons, and not for use, for there will be no winners in this battle.
+
 
 
 Specification of the Ratio Bomb Algoritm -
