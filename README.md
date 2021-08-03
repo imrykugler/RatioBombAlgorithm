@@ -9,7 +9,7 @@ This repository is strictly for ethical reasons, and not for use, for there will
 
 
 
-Specification of the Ratio Bomb Algoritm -
+**Specification of the Ratio Bomb Algoritm -**
 
 This zero-day attack, will take down most of the machines and phones in a preditermined radius.
 
@@ -32,7 +32,7 @@ and not by a machine.
 Both stages can be used in parralel
 
 
-Experiments specification -
+**Experiments specification -**
 
 First stage of the experiments will be The Micro Stage. Construction of an AI and its execution against machines that are likely to successfully be taken down.
 
