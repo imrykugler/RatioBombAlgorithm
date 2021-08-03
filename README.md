@@ -21,7 +21,7 @@ and which not.
 Will create two stacks.
 
 Stack A will contain a list of attacks which can be executed, and stack B of attacks which cannot be executed.
-Stack A will be sorted by qualified programmers, samilliarly to the Airgeddon attacking tool logic, from more probable to succeed to less.
+Stack A will be sorted by qualified programmers, samilliarly to the [Airgeddon](https://github.com/v1s1t0r1sh3r3/airgeddon) attacking tool logic, from more probable to succeed to less.
 
 On the first stage of using this tool, there will be an execution of Stack A, a DoS attack of most of the machines in a predetermined radius.
 The attack will exploit Wifi and GSM for the initial stages, Using deisgnated antennas. Will take down at least 50 percent of the machines in a radius.
