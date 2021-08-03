@@ -37,7 +37,7 @@ Both stages can be used in parralel
 
 First stage of the experiments will be The Micro Stage. Construction of an AI and its execution against machines that are likely to successfully be taken down.
 
-The second stage of the experiments will be The Tirinity Stage. Using hunderds to more than a thousand VMWares execute the attack against the those machines,
+The second stage of the experiments will be The Tirinity Stage. Using hunderds to more than a thousand VMWares execute the attack against those machines,
 which consist of the mostly used machines. From the OS percepective. After the end of the execution of the attack, which can be executed again and again,
 the machines will switch color from light grey to complete black, indicating full success or partial success, and will send statistics for estimation of the
 experiment result, required for the continution of the attack development
