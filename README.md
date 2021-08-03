@@ -31,7 +31,8 @@ and not by a machine.
 
 Both stages can be used in parralel
 
-# Experiments
+
+Experiments specification -
 
 First stage of the experiments will be The Micro Stage. Construction of an AI and its execution against machines that are likely to successfully be taken down.
 
