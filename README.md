@@ -38,3 +38,5 @@ The second stage of the experiments will be The Tirinity Stage. Using hunderds t
 which consist of the mostly used machines. From the OS percepective. After the end of the execution of the attack, which can be executed again and again,
 the machines will switch color from light grey to complete black, indicating full success or partial success, and will send statistics for estimation of the
 experiment result, required for the continution of the attack development
+
+![ezgif com-gif-maker](https://user-images.githubusercontent.com/88146003/128019995-313366b3-6f86-4ca3-816f-3162ca472d73.gif)
